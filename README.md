@@ -31,7 +31,4 @@ This project is a console-based implementation of the classic Tic Tac Toe game d
  This project is ideal for beginners to understand basic Java concepts like loops, conditionals, arrays, and user input handling.
 
  <img width="1421" height="592" alt="Screenshot 2026-03-29 104259" src="https://github.com/user-attachments/assets/45232d80-4b28-455e-a7e6-d30b360a977a" />
- <img width="813" height="242" alt="Screenshot 2025-12-04 231349" src="https://github.com/user-attachments/assets/662cc347-1512-42a3-bf70-177e47115016" />
 
-
-<img width="813" height="242" alt="Screenshot 2025-12-04 231349" src="https://github.com/user-attachments/assets/0025b06b-dde5-45f3-bb1e-1136b4502ec0" />
